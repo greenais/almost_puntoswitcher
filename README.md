@@ -65,3 +65,9 @@ Just two small scripts in plain bash which do 80% of really needed in daily rout
 1. Should not be one, but feel free to ask for help in corresponding section above.
 
 2. Please note that these scripts don't detect automatically wrong layout as you type (that's why they are not keyloggers), they just convert typed garbage into something meaningful when you decide to.
+
+.
+
+**5) Adoption**
+
+To change default layouts pair (Eng-Rus) to anotther one look inside scripts for sed command - you'll find out letters you should replace for new pair, quite straightforward. Pull requests with new pairs are welcomed.
