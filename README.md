@@ -22,11 +22,11 @@ Linux shell script which covers 80% of really used PuntoSwitcher or XNeur functi
 
 Just two small scripts in plain bash which do 80% of really needed in daily routine job in terms of dealing with wrong layout:
 
-1. one (previous_convert.sh) converts wrongly typed garbage from cursor to beginning of the current text string - as if you quickly noticed wrong layout just started typing
+1. one (`previous_convert.sh`) converts wrongly typed garbage from cursor to beginning of the current text string - as if you quickly noticed wrong layout just started typing
 
     _(in fact - 90+% cases)_
 
-2. another one (selected_convert.sh) expects you to mouse-select first what to convert
+2. another one (`selected_convert.sh`) expects you to mouse-select first what to convert
 
      _(useful for paragraphs or multi-layout strings)_
 
