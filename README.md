@@ -26,7 +26,7 @@ Just two small scripts in plain bash which do 80% of really needed in daily rout
 
     _(in fact - 90+% cases)_
 
-2. another one (`selected_convert.sh`) expects you to mouse-select first what to convert
+2. another one (`selected_convert.sh`) expects you to mouse-select what to convert first
 
      _(useful for paragraphs or multi-layout strings)_
 
