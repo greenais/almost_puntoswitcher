@@ -1,5 +1,5 @@
 # almost_puntoswitcher
-Linux shell script which covers 80% of really used PuntoSwitcher functionality
+Linux shell script which covers 80% of really used PuntoSwitcher or XNeur functionality. Contains inside Eng-Rus conversion, but is easily adaptable for any layouts pair.
 
 .
 
